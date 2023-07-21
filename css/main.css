@@ -2640,3 +2640,58 @@ margin:7%}
 .card{
     margin: 2rem 0;
 }
+
+.project_card{
+
+	background-color: lavender;
+}
+
+
+.paper_text1 {
+
+    font-size: small;
+}
+
+
+.paper_text1 {
+    font-size: revert;
+    font-family: cursive;
+  
+    color: black;
+}
+
+.project_card {
+    background-color: #ebebeb;
+}
+
+.card-title {
+    
+	font-size: revert;
+    font-family: cursive;
+  
+    color: black;
+	font-weight: 900;
+}
+
+
+.paper_text1 {
+    font-size: revert;
+    font-family: cursive;
+    color: black;
+    font-size: 14px;
+   
+}
+
+.paper_text {
+    margin: 7%;
+    text-align: initial;
+	font-size: revert;
+    font-family: cursive;
+    color: black;
+    font-size: 14px;
+}
+
+
+.project_card {
+    background-color: aliceblue;
+}
